@@ -1,0 +1,11 @@
+#container {
+    width: 970px;
+    background: white;
+}
+
+button {
+    background: red;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
